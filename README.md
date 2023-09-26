@@ -1,2 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/42KWj_ra)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11663908&assignment_repo_type=AssignmentRepo)
+This Project Is Given As A Task Under Industries Mentorship Program To Test My Basic JavaScript Skill.
+![image](https://github.com/Durjoy1971/IMP-To-Do-List/assets/91456847/67da64fe-8d23-4d01-a1b4-93cb2ad872ab)
